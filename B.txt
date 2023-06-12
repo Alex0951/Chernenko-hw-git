@@ -1,9 +1,6 @@
 Test file 2
-<<<<<<< HEAD
 Line from feature branch
 Test file 2
-=======
 Test file 2
 Test file 2
->>>>>>> main
 Test file 2
